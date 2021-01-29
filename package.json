@@ -1,28 +1,28 @@
 {
-  "name": "wp-plugin-popular-posts-tailwindcss",
-  "version": "1.0.0",
-  "description": "Popular Posts Custom with Tailwind CSS.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/susantokun/wp-plugin-popular-posts-tailwindcss.git"
-  },
-  "keywords": [
-    "wordpress",
-    "plugin",
-    "popular",
-    "popular",
-    "posts",
-    "custom",
-    "tailwindcss"
-  ],
-  "author": "susantokun <admin@susantokun.com> (http://www.susantokun.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/susantokun/wp-plugin-popular-posts-tailwindcss/issues"
-  },
-  "homepage": "https://github.com/susantokun/wp-plugin-popular-posts-tailwindcss#readme"
+	"name": "wp-plugin-popular-posts-tailwindcss",
+	"version": "2.0.0",
+	"description": "Popular Posts Custom with Tailwind CSS.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/susantokun/wp-plugin-popular-posts-tailwindcss.git"
+	},
+	"keywords": [
+		"susantokun",
+		"wordpress",
+		"plugin",
+		"popular",
+		"posts",
+		"custom",
+		"tailwindcss"
+	],
+	"author": "susantokun <admin@susantokun.com> (http://www.susantokun.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/susantokun/wp-plugin-popular-posts-tailwindcss/issues"
+	},
+	"homepage": "https://github.com/susantokun/wp-plugin-popular-posts-tailwindcss#readme"
 }
